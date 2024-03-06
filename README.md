@@ -27,7 +27,7 @@ Developpement d'une plateforme web robuste et intuitive qui permettra aux citoye
 
 ## 📹 Vidéo de Présentation
 
-[Regarder la vidéo de présentation sur Google Drive](lien_video_drive)
+[Regarder la vidéo de présentation sur Google Drive](https://drive.google.com/file/d/1PLAQYfZjbh_UgHLl4wBE0KxseGycFJ1W/view?usp=sharing)
 
 ## 💻 Front-end (React)
 [Accéder au site en reel](https://65e88eb8c55aad0f57cab84d--gestioncitoyenne.netlify.app/)
