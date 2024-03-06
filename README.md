@@ -11,7 +11,7 @@ Plateforme intégrée de Gestion des Demandes Citoyennes et des Signalements d'I
 
 ## 📝 Description
 
-(S'il vous plaît, ajoutez une description détaillée de votre projet ici.)
+Developpement d'une plateforme web robuste et intuitive qui permettra aux citoyens de soumettre des demandes et de signaler des incidents a leur mairie locale, tout en fournissant aux agents municipaux les outils necessaires pour gerer efficacement ces demandes et incidents.
 
 ## 📊 Modèle Conceptuel de Données (MCD)
 
@@ -23,7 +23,7 @@ Plateforme intégrée de Gestion des Demandes Citoyennes et des Signalements d'I
 
 ## 🎨 Maquette (Figma)
 
-[Accéder à la maquette sur Figma](lien_maquette)
+[Accéder à la maquette sur Figma](https://www.figma.com/file/SMKvEi6h3UtuoSaFSC0egs/Gestion-de-demande-Citoyenne?type=design&node-id=0%3A1&mode=design&t=J66JS4wSwVju6vIg-1)
 
 ## 📹 Vidéo de Présentation
 
@@ -31,7 +31,7 @@ Plateforme intégrée de Gestion des Demandes Citoyennes et des Signalements d'I
 
 ## 💻 Front-end (React)
 
-[Accéder au code source du front-end (React)](lien_front_end_react)
+[Accéder au code source du front-end (React)](https://github.com/Just2sire/citizen_request_management)
 
 ## ⚙️ Back-end (Spring Hibernate)
 
