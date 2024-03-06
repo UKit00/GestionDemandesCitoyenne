@@ -30,7 +30,7 @@ Developpement d'une plateforme web robuste et intuitive qui permettra aux citoye
 [Regarder la vidéo de présentation sur Google Drive](lien_video_drive)
 
 ## 💻 Front-end (React)
-
+[Accéder au site en reel](https://65e88eb8c55aad0f57cab84d--gestioncitoyenne.netlify.app/)
 [Accéder au code source du front-end (React)](https://github.com/Just2sire/citizen_request_management)
 
 ## ⚙️ Back-end (Spring Hibernate)
