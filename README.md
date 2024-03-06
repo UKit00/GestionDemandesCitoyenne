@@ -5,34 +5,34 @@
 - **Nom**: KAKANOU Israel
 - **Niveau d'études**: Licence 3 GL DEFITECH
 
-## Thème
+## 🏛️ Thème
 
 Plateforme intégrée de Gestion des Demandes Citoyennes et des Signalements d'Incidents pour les Communes.
 
-## Description
+## 📝 Description
 
 (S'il vous plaît, ajoutez une description détaillée de votre projet ici.)
 
-## Modèle Conceptuel de Données (MCD)
+## 📊 Modèle Conceptuel de Données (MCD)
 
 ![MCD](lien_image_mcd)
 
-## Diagramme de Fonctionnalités (UML)
+## 🌐 Diagramme de Fonctionnalités (UML)
 
 ![Diagramme de Fonctionnalités](lien_image_diagramme_fonctionnalites)
 
-## Maquette (Figma)
+## 🎨 Maquette (Figma)
 
 [Accéder à la maquette sur Figma](lien_maquette)
 
-## Vidéo de Présentation
+## 📹 Vidéo de Présentation
 
 [Regarder la vidéo de présentation sur Google Drive](lien_video_drive)
 
-## Front-end (React)
+## 💻 Front-end (React)
 
 [Accéder au code source du front-end (React)](lien_front_end_react)
 
-## Back-end (Spring Hibernate)
+## ⚙️ Back-end (Spring Hibernate)
 
 [Accéder au code source du back-end (Spring Hibernate)](lien_back_end_spring_hibernate)
