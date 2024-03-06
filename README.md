@@ -15,11 +15,11 @@ Developpement d'une plateforme web robuste et intuitive qui permettra aux citoye
 
 ## 📊 Modèle Conceptuel de Données (MCD)
 
-![MCD](lien_image_mcd)
+![MCD](src/mcd.png)
 
 ## 🌐 Diagramme de Fonctionnalités (UML)
 
-![Diagramme de Fonctionnalités](lien_image_diagramme_fonctionnalites)
+![Diagramme de Fonctionnalités](src/uml.png)
 
 ## 🎨 Maquette (Figma)
 
